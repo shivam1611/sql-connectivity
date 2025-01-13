@@ -1,0 +1,9 @@
+1) mysql.connector module
+2) db object from connect method 
+3) Cursor 
+    a) execute
+    b) fetchall()
+    c) fetchmany()
+    d) fetchone()
+    e) rowcount
+4) Close()
